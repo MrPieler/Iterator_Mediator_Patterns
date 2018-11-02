@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca7c20b2-3173-4882-8157-4d4105d449c9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IteratorMediator/Interfaces/Container.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IteratorMediator/Interfaces/Container.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IteratorMediator/Interfaces/Iterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IteratorMediator/Interfaces/Iterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IteratorMediator/Iterator/TaskRepository$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IteratorMediator/Iterator/TaskRepository$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IteratorMediator/Iterator/TaskRepository$TaskIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IteratorMediator/Iterator/TaskRepository$TaskIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IteratorMediator/Iterator/TaskRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IteratorMediator/Iterator/TaskRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IteratorMediator/Mediator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IteratorMediator/Mediator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IteratorMediator/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IteratorMediator/Run.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IteratorMediator/Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IteratorMediator/Task.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IteratorMediator/Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IteratorMediator/Worker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mediator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mediator.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Worker.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,20 +17,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Run.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Run.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Run.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Mediator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Mediator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="238">
+              <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -51,15 +34,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
               <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Iterator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Interfaces/Iterator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -76,8 +50,8 @@
       <file leaf-file-name="TaskRepository.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Iterator/TaskRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+            <state relative-caret-position="420">
+              <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,18 +62,48 @@
       <file leaf-file-name="Worker.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Worker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+            <state relative-caret-position="34">
+              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WorkerMediatorImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/WorkerMediatorImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
-                <element signature="e#76#77#0" expanded="true" />
-                <element signature="e#103#104#0" expanded="true" />
-                <element signature="e#143#144#0" expanded="true" />
-                <element signature="e#175#176#0" expanded="true" />
-                <element signature="e#206#207#0" expanded="true" />
-                <element signature="e#239#240#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
-                <element signature="e#382#383#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#169#170#0" expanded="true" />
+                <element signature="e#213#214#0" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#350#351#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WorkerImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/WorkerImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="64" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
+              <folding>
+                <element signature="e#89#90#0" expanded="true" />
+                <element signature="e#121#122#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#404#405#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WorkerMediator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Interfaces/WorkerMediator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -124,8 +128,14 @@
         <option value="$PROJECT_DIR$/src/Iterator/TaskRepository.java" />
         <option value="$PROJECT_DIR$/src/Interfaces/Iterator.java" />
         <option value="$PROJECT_DIR$/src/Task.java" />
-        <option value="$PROJECT_DIR$/src/Worker.java" />
         <option value="$PROJECT_DIR$/src/Mediator.java" />
+        <option value="$PROJECT_DIR$/src/Interfaces/Mediator.java" />
+        <option value="$PROJECT_DIR$/src/Tømre.java" />
+        <option value="$PROJECT_DIR$/src/WorkerMediator.java" />
+        <option value="$PROJECT_DIR$/src/Worker.java" />
+        <option value="$PROJECT_DIR$/src/Interfaces/WorkerMediator.java" />
+        <option value="$PROJECT_DIR$/src/WorkerMediatorImpl.java" />
+        <option value="$PROJECT_DIR$/src/WorkerImpl.java" />
         <option value="$PROJECT_DIR$/src/Run.java" />
       </list>
     </option>
@@ -140,10 +150,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1050" />
+    <option name="x" value="-13" />
+    <option name="y" value="-13" />
+    <option name="width" value="2425" />
+    <option name="height" value="1313" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -170,6 +180,12 @@
               <item name="Iterator_Mediator_Patterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="Iterator_Mediator_Patterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Interfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Iterator_Mediator_Patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Iterator_Mediator_Patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Iterator" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -186,6 +202,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -273,12 +294,21 @@
       <option name="presentableId" value="Default" />
       <updated>1540799529399</updated>
       <workItem from="1540799540132" duration="3426000" />
-      <workItem from="1540808236315" duration="2597000" />
+      <workItem from="1540808236315" duration="3260000" />
+      <workItem from="1541146172592" duration="4566000" />
     </task>
+    <task id="LOCAL-00001" summary="Mediator startet">
+      <created>1540813340089</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540813340089</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6023000" />
+    <option name="totallyTimeSpent" value="11252000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -286,7 +316,6 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -294,11 +323,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32946146" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4268126" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3125" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -312,6 +341,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -320,7 +350,71 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Mediator startet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mediator startet" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interfaces/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interfaces/Container.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Iterator/TaskRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Worker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mediator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="104" selection-start-line="5" selection-start-column="104" selection-end-line="5" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Run.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -370,27 +464,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#76#77#0" expanded="true" />
-            <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#143#144#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Iterator/Iterator.java" />
-    <entry file="file://$PROJECT_DIR$/src/Interfaces/Container.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Interfaces/Iterator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -398,12 +475,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Iterator/TaskRepository.java">
+    <entry file="file://$PROJECT_DIR$/src/Interfaces/Container.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+        <state relative-caret-position="68">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mediator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interfaces/Mediator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Iterator/TaskRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interfaces/WorkerMediator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tømre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <folding>
+            <element signature="e#94#95#0" expanded="true" />
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -415,34 +542,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Mediator.java">
+    <entry file="file://$PROJECT_DIR$/src/Worker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Worker.java">
+    <entry file="file://$PROJECT_DIR$/src/Interfaces/WorkerMediator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-          <folding>
-            <element signature="e#76#77#0" expanded="true" />
-            <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#143#144#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Run.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+        <state relative-caret-position="238">
+          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WorkerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="64" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
+          <folding>
+            <element signature="e#89#90#0" expanded="true" />
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WorkerMediatorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

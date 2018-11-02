@@ -1,22 +1,16 @@
-public class Worker
-{
-    private String name;
-    private boolean done;
+public abstract class Worker {
+        public WorkerMediator mediator;
+        public String name;
 
-    public String getName() {
-        return name;
-    }
+        public Worker(WorkerMediator med, String name){
+            this.mediator=med;
+            this.name=name;
+        }
 
-    public void setName(String name) {
-        this.name = name;
-    }
+        public abstract void send(String msg);
 
-    public Worker(String name){
-        this.name  = name;
-    }
-
-    public void isWorkerDone(String taskName, boolean done){
-        Mediator.workerDone(this,taskName, done);
-    }
+        public abstract void receive(String msg);
 }
+
+
 
